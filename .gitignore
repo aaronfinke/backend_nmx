@@ -1,0 +1,9 @@
+# Claude-related local guidance files
+.claude/
+CLAUDE.md
+
+# Use pip-installed h5grove rather than vendored source in this workspace
+h5grove/
+
+# Frontend app not needed in this repo setup
+nmx_view/
