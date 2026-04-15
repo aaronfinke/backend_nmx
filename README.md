@@ -1,6 +1,6 @@
 # NMX Viewer — Backend + Frontend
 
-Interactive neutron diffraction detector data visualizer with a very simple backend. A Python/FastAPI backend reads HDF5/NeXus files and serves processed detector images over HTTP; a React/TypeScript frontend handles rendering only.
+Interactive neutron diffraction detector data visualizer with a very simple backend. An [h5grove](https://github.com/silx-kit/h5grove/)/[FastAPI](https://fastapi.tiangolo.com) backend reads HDF5/NeXus files and serves processed detector images over HTTP; a React/TypeScript frontend handles rendering only.
 
 ## Repository layout
 
